@@ -1,0 +1,77 @@
+{
+    "Goalkeeper": {
+        "recall": 0.9998832457676591,
+        "precision": 0.9995914794280713,
+        "f1-score": 0.9997373413103751
+    },
+    "Sweeper": {
+        "recall": 0.005089058524173028,
+        "precision": 0.16666666666666666,
+        "f1-score": 0.009876543209876545
+    },
+    "Striker": {
+        "recall": 0.8048108925869895,
+        "precision": 0.9074440502183406,
+        "f1-score": 0.8530515377954524
+    },
+    "AttackingMidCentral": {
+        "recall": 0.4683561216763907,
+        "precision": 0.6622166246851385,
+        "f1-score": 0.5486656405707876
+    },
+    "AttackingMidLeft": {
+        "recall": 0.5139541862558767,
+        "precision": 0.6140424260531819,
+        "f1-score": 0.5595578425767106
+    },
+    "AttackingMidRight": {
+        "recall": 0.544713531850735,
+        "precision": 0.6377427184466019,
+        "f1-score": 0.5875686115064037
+    },
+    "DefenderCentral": {
+        "recall": 0.8423381109663344,
+        "precision": 0.8944878849309779,
+        "f1-score": 0.8676300758450638
+    },
+    "DefenderLeft": {
+        "recall": 0.6772195856001852,
+        "precision": 0.7911961593075935,
+        "f1-score": 0.729784513674494
+    },
+    "DefenderRight": {
+        "recall": 0.5841038033200252,
+        "precision": 0.7591315627773606,
+        "f1-score": 0.6602143514532555
+    },
+    "DefensiveMidfielder": {
+        "recall": 0.5296338782143198,
+        "precision": 0.7378970500099887,
+        "f1-score": 0.6166560004451989
+    },
+    "MidfielderCentral": {
+        "recall": 0.6451268742791234,
+        "precision": 0.7624126767762821,
+        "f1-score": 0.6988832487309644
+    },
+    "MidfielderLeft": {
+        "recall": 0.41582513951634337,
+        "precision": 0.5716503790300484,
+        "f1-score": 0.48144302142225304
+    },
+    "MidfielderRight": {
+        "recall": 0.3431652001487173,
+        "precision": 0.5348657523662352,
+        "f1-score": 0.4180884795409935
+    },
+    "WingBackLeft": {
+        "recall": 0.428609841355203,
+        "precision": 0.6064295225413734,
+        "f1-score": 0.5022449783379284
+    },
+    "WingBackRight": {
+        "recall": 0.31339648173207035,
+        "precision": 0.596753414068539,
+        "f1-score": 0.41096619643332444
+    }
+}
